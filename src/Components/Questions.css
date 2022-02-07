@@ -1,0 +1,116 @@
+fieldset1 {
+    overflow: hidden;
+    white-space:nowrap;
+    
+  }
+  
+  /* .some-class {
+    float: left;
+    clear: none;
+  } */
+  
+  label {
+    float: left; 
+    display: block;
+    
+  
+  }
+  
+   input[type=radio],
+   input.radio {
+    float: left;
+    clear: none;
+    display: block;
+    margin: 2px 0 0 2px; 
+    color: black
+  }
+
+   div1 {
+    background-color: white;
+    float:left;
+    margin:50px;
+    padding:50px;
+    width: 90%;
+    
+    /* box-shadow: 0px 0px 23px #888888;; */
+       
+       
+   }
+   hr.style17 {
+    border-top: 1px solid #6b6a6a;
+    text-align: center;
+  }
+  
+  .myClass{
+    color : darkGray;
+    font-style: italic;
+    
+    /* cursor: not-allowed; */
+
+  }
+  .myBorder{
+    border: 1px black solid;
+    margin: 10px;
+  }
+  div2{
+    display:flex;
+    
+  
+  }
+  .myButton
+  {
+    float: left;
+    border:1px solid #e3e5e7;
+    background-color: white;
+    margin-right: 5px;
+    border-radius:5px
+  }
+  .onhour:hover{
+    color:red;
+    
+  }
+  .floatLeft{
+    float:left;
+  }
+  .boldFont{
+    font-weight: bolder;
+    font-size: 25px;
+    color:rgb(7, 172, 248);
+    margin-left: 1px;
+  }
+  warnning{
+    color : red;
+  }
+  star{
+    color : red
+  }
+
+  label3{
+    display:inline-flex;
+    float: left;
+  }
+  .dropdown_container {
+    width:100px;
+}
+
+/* style={{fontSize:"12px", color:"gray",fontWeight:"bold"}} */
+
+.grayButton
+{
+  font-size: 12px;
+  color: gray;
+  font-weight: bold;
+  text-align: start;
+}
+/* style={{height:"400px", width:"600px",backgroundColor:"gray", display:"block", marginLeft:"28%"} */
+div11
+{
+  height:400px;
+  width: 600px;
+  background-color: rgb(238, 234, 234);
+  display:block;
+  margin-left: 28%;
+  margin-top: 50px;
+  padding:40px;
+  
+}
